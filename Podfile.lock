@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (5.4.0)
+  - Kingfisher (5.15.7):
+    - Kingfisher/Core (= 5.15.7)
+  - Kingfisher/Core (5.15.7)
+  - Nimble (9.0.0)
+  - Quick (3.0.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - Swinject (2.7.1)
+  - SwinjectAutoregistration (2.7.0):
+    - Swinject (~> 2.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Kingfisher
+  - Nimble
+  - Quick
+  - RxCocoa
+  - RxSwift
+  - Swinject
+  - SwinjectAutoregistration
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Nimble
+    - Quick
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - Swinject
+    - SwinjectAutoregistration
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  Kingfisher: 6e1a13523fcb1c86924ce53affe4ac957e544d59
+  Nimble: 3b4ec3fd40f1dc178058e0981107721c615643d8
+  Quick: 6d9559f40647bc4d510103842ef2fdd882d753e2
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  SwinjectAutoregistration: 330f5012642a8b5c89a8a4adb0c5e52df07382c0
+
+PODFILE CHECKSUM: a8b1bc4618b26d6a58397fc8bffcb322e8ba9fba
+
+COCOAPODS: 1.10.0
